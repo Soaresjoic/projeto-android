@@ -19,9 +19,10 @@ header{
     background-image: linear-gradient(to bottom,#63EB8B ,#14301c );
     color: white;
     min-height: 150px;
+    width: auto;
     padding: 10px ;
     box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.623);
-    width: auto;
+    
 }
 header > h1{
     font-family: 'Oswald', sans-serif;
